@@ -1,7 +1,7 @@
 import React, {Component} from 'react';
 import fakes from 'faker';
-import Controller from './controller';
-import PlayerStatus from './playerStatus';
+import Controller from './Controller';
+import PlayerStatus from './PlayerStatus';
 
 const GUESS_LEVEL = {
   UNKNOWN: 0,
@@ -96,7 +96,6 @@ export default class Game extends Component {
       </div>
     );
   }
-
 }
 
 Game.defaultProps = {
