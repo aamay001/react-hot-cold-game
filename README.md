@@ -4,4 +4,4 @@ Learning react.
 
 Play the game here:
 
-[the Hot and Cold game](https://aamay001.github.io/react-hot-cold-game/)
+[the Hot and Cold game](https://hot-cold-aamay001.netlify.com/)
