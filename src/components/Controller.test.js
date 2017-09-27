@@ -1,7 +1,7 @@
 import React from 'react';
 import {shallow, mount} from 'enzyme';
 
-import Controller from './Controller';
+import Controller from './Controller.js';
 
 describe('<Controller />', () => {
   it('Renders without crashing', () => {
